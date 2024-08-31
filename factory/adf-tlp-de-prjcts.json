@@ -1,0 +1,9 @@
+{
+	"name": "adf-tlp-de-prjcts",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a010109-22f4-46ad-aea6-ed27fb47ce4a",
+		"tenantId": "3d4d17ea-1ae4-4705-947e-51369c5a5f79"
+	}
+}
